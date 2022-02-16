@@ -1,0 +1,18 @@
+.newCard {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  min-width: 150px;
+  min-height: 150px;
+  max-height: auto;
+  background-color: rgb(233, 228, 228);
+  border-radius: 20px;
+  box-shadow: 2px 5px 15px 3px rgb(31, 31, 31);
+}
+
+
+tbody > tr {
+  display: flex;
+  justify-content:space-around;
+  cursor:default;
+}
